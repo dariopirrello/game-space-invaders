@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.0",
+    "@capacitor/core": "^7.4.0"
+  }
+}

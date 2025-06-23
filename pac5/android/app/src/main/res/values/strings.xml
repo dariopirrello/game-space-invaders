@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Pac5</string>
+    <string name="title_activity_main">Pac5</string>
+    <string name="package_name">it.dariopirrello.pac5</string>
+    <string name="custom_url_scheme">it.dariopirrello.pac5</string>
+</resources>
